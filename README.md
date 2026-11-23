@@ -1,9 +1,19 @@
 # ps3car
+
+![GitHub License](https://img.shields.io/github/license/kreier/ps3car)
+![GitHub Release](https://img.shields.io/github/v/release/kreier/ps3car)
+
 Controlling a robot car with a PS3 Dualshock controller
 
 ## Vision
 
-The working T300 robot with an Arduino and Motorshield should be able to controlled from a PS3 controller. The translation is done by an ESP32, specifically a T-Display. The T-Display is only connected by 4 pins to the motorshield: 5V, GND, TX of the T-Display to RX on the Arduino (3.3 Volt) and TX of the Arduino to the RX of the T-Display over a 1 kOhm/ 2kOhm voltage divider to ground.
+The working T300 robot with an Arduino and Motorshield should be able to controlled from a PS3 controller. The translation is done by an ESP32, specifically a T-Display. The T-Display is only connected by 4 pins to the motorshield: 
+- 5V
+- GND
+- TX of the T-Display to RX on the Arduino (3.3 Volt)
+- TX of the Arduino to the RX of the T-Display over a 1 kOhm/ 2kOhm voltage divider to ground
+
+The latter reduces a 5V high of the Arduino to a 3.3 Volt high at the input of the ESP32.
 
 ## Documentation
 
@@ -16,6 +26,8 @@ For the connection we have a picture of the 4 wires on the T-Dispay
 ## Software
 
 ### Step 1: Successful connection of the remote controller to the T-Display
+
+![Success](docs/ps3car_1.jpg)
 
 *** IMAGE ***
 
