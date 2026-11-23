@@ -27,6 +27,8 @@ For the connection we have a picture of the 4 wires on the T-Dispay
 
 ### Step 1: Successful connection of the remote controller to the T-Display
 
+![Success](docs/ps3car_1.jpg)
+
 *** IMAGE ***
 
 ### Step 2: 
