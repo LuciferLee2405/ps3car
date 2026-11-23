@@ -34,3 +34,7 @@ Code:
 ## Pictures and logic
 
 To follow, written by Tai
+
+## Signed out hardware
+
+Tai received a PS3 controller, a working T-Display with ESP32 and 4 MB flash, and a multimeter on 2026/11/23 at Hung Vuong 1.
