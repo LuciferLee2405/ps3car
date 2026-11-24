@@ -23,7 +23,7 @@ Tai is testing the 1kOhm/2kOhm of the motorshield to confirm the ESP32 is not de
 
   - Chân 1 và chân rx trên motorshield: 12,73 mega ohm(I dont know but the clock show that)
   - Chân GND và chân rx trên motorshield: 12,59 mega ohm(I dont know but the clock show that too)
-  Oh and what pin of t-display is rx???
+  - Oh and what pin of t-display is rx???
 
 For the connection we have a picture of the 4 wires on the T-Dispay
 
