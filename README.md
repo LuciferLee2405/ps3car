@@ -19,6 +19,11 @@ The latter reduces a 5V high of the Arduino to a 3.3 Volt high at the input of t
 
 Tai is testing the 1kOhm/2kOhm of the motorshield to confirm the ESP32 is not destroyed by the 5 Volt signals of the Arduino.
 
+Đo giá trị của các chân
+
+  - Chân 1 và chân rx trên motorshield: 12,73 mega ohm(I dont know but the clock show that)
+  - Chân GND và chân rx trên motorshield: 12,59 mega ohm(I dont know but the clock show that too) 
+
 For the connection we have a picture of the 4 wires on the T-Dispay
 
 *** IMAGE ***
